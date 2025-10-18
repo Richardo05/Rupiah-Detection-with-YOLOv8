@@ -3,8 +3,11 @@ Rupiah Detection train on YOLOv8 model
 
 
 Ater running all cell on Money_Detection_YOLOv8CustomObjectDetection.ipynb
+
 Go to files
+
 runs/train/weights
+
 Download best.pt or last.pt
 
 Or you can access this link to download 
